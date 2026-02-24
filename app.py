@@ -1130,5 +1130,5 @@ st.markdown("""<div style='text-align:center;font-family:Space Mono,monospace;
 font-size:11px;color:#64748b;padding:14px;letter-spacing:1px;'>
 🎵 SPOTIFY KEYWORD INTELLIGENCE &nbsp;·&nbsp; 2,939 Keywords &nbsp;·&nbsp;
 Jan 2022 – Dec 2025 &nbsp;·&nbsp; Python · Streamlit · Plotly · SQLite
-&nbsp;·&nbsp;  Feb 2026
+&nbsp;·&nbsp;  Feb 2026 / By Ankit AI Intelligence Data Analyst
 </div>""", unsafe_allow_html=True)
