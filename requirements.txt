@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Spotify Keyword Intelligence Dashboard — Python Dependencies
+# ─────────────────────────────────────────────────────────────────────────────
+# Install with:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0          # Excel file reading
+
+# Visualisation
+plotly>=5.18.0            # Interactive charts used throughout dashboard
+
+# Statistical analysis
+scipy>=1.11.0             # Pearson/Spearman correlation, regression
+
+# Streamlit framework
+streamlit>=1.32.0         # Dashboard server & UI components
+
+# Optional: for Jupyter EDA notebook
+jupyter>=1.0.0
+nbformat>=5.9.0
