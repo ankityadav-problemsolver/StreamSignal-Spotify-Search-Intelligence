@@ -213,4 +213,4 @@ spearman_r = scipy.stats.spearmanr(brand, competition)   # ≈ 0 (p>0.05)
 
 ---
 
-*Recruitment Assignment · Submitted Feb 2026*
+*By Ankit (AI Intelligence Data Analyst)*
