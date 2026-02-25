@@ -450,7 +450,7 @@ The complete executive presentation deck for **StreamSignal v2.0.0** is availabl
 ---
 
 📑 Executive Presentation:
-(https://github.com/ankityadav/streamsignal/releases/download/v2.0.0/StreamSignal_Presentation_v2.0.0.pptx)
+(https://github.com/ankityadav-problemsolver/StreamSignal-Spotify-Search-Intelligence/releases/download/v2.0.0/StreamSignal_Presentation_v2.0.0.pptx)
 
 
 
