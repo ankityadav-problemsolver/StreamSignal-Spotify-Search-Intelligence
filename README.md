@@ -1,6 +1,6 @@
 # 🎵 StreamSignal — Spotify Search Intelligence Dashboard
 
-> **Recruitment Assignment Submission** | Music Streaming App Keyword Search Analysis  
+> **StreamSignal- Spoify Keyword Analysis** | Music Streaming App Keyword Search Analysis  
 > **Live Dashboard:** [streamsignal-spotify-search-intelligence.streamlit.app](https://streamsignal-spotify-search-intelligence.streamlit.app/)  
 > **Dataset:** 2,939 Keywords | Jan 2022 – Dec 2025 | 48 Months
 
@@ -409,24 +409,14 @@ openpyxl>=3.1
 
 ## File Structure
 
-```
 streamsignal/
+│
 ├── app.py                    # Main Streamlit dashboard
-├── data/
-│   └── keyword_data.xlsx     # Source dataset (2,939 keywords × 48 months)
-├── analysis/
-│   ├── eda.ipynb             # Part 1: Exploratory Data Analysis
-│   ├── trend_analysis.ipynb  # Part 2: Trend & Insights
-│   └── advanced.ipynb        # Part 3: Advanced Analytics
-├── outputs/
-│   ├── StreamSignal_Report.pptx
-│   └── README.md
-├── utils/
-│   ├── data_loader.py
-│   ├── metrics.py
-│   └── intent_classifier.py
-└── requirements.txt
-```
+├── keyword_data.xlsx         # Source dataset (2,939 keywords × 48 months)
+├── requirements.txt  # all dependency 
+├── README.md   # documenatation
+└── licence    # MIT Licence
+└── analysis.py                  # Eda Analysis
 
 ---
 
@@ -434,9 +424,9 @@ streamsignal/
 
 > **[streamsignal-spotify-search-intelligence.streamlit.app](https://streamsignal-spotify-search-intelligence.streamlit.app/)**
 >
-> All 5 sections of the assignment are addressed within the interactive dashboard. Use the sidebar filters to explore by theme, date range, or individual keyword.
 
 ---
 
-*Prepared as part of the Music Streaming App — Keyword Search Analysis recruitment assignment.*  
+*Prepared as part of the Music Streaming App — Keyword Search Analysis .*  
 *Analysis period: January 2022 – December 2025 | Dataset: 2,939 keywords*
+*By Ankit ( AI intelligence Data Analyst)*
