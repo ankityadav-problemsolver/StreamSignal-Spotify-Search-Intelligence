@@ -429,6 +429,31 @@ streamsignal/
 
 ---
 
+## 📑 Executive Presentation
+
+The complete executive presentation deck for **StreamSignal v2.0.0** is available below:
+
+### 🔗 Download
+
+[Download StreamSignal Executive Presentation (v2.0.0)](./assets/StreamSignal_Presentation_v2.0.0.pptx)
+
+---
+
+### 📌 What the Presentation Covers
+
+- **Business Problem Statement** – Context and strategic objective  
+- **KPI Analysis Framework** – Metrics, methodology, and evaluation model  
+- **Dashboard Insights** – Time-series trends and keyword intelligence  
+- **Growth Opportunities** – High-impact keyword clusters  
+- **Strategic Recommendations** – Data-driven product and marketing decisions  
+
+---
+
+📑 Executive Presentation:
+(https://github.com/ankityadav/streamsignal/releases/download/v2.0.0/StreamSignal_Presentation_v2.0.0.pptx)
+
+
+
 *Prepared as part of the Music Streaming App — Keyword Search Analysis .*  
 *Analysis period: January 2022 – December 2025 | Dataset: 2,939 keywords*
 *By Ankit ( AI intelligence Data Analyst)*
