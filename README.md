@@ -416,6 +416,8 @@ streamsignal/
 ├── requirements.txt  # all dependency 
 ├── README.md   # documenatation
 └── licence    # MIT Licence
+└── assets    
+       └── StreamSignal_Presentation.pptx
 └── analysis.py                  # Eda Analysis
 
 ---
